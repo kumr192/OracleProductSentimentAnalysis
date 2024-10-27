@@ -3,3 +3,4 @@ langchain
 matplotlib
 numpy
 pandas
+langchain_community
